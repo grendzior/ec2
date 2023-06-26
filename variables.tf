@@ -1,3 +1,3 @@
 variable newec2 {
-        default = "t2.micro"
+        default = "t2.medium"
 }
